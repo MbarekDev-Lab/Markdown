@@ -23,11 +23,11 @@ unordered lists
 
 bold
 
-  ***bold text***
+***bold text***
 
-  italic
-
-     *italic*
+italic
+ 
+*italic*
 
 link
 
