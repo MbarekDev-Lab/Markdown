@@ -17,9 +17,9 @@ ordered lists
 
 unordered lists
 
--. first
--. second
--. third
+- first
+- second
+- third
 
 link
 
