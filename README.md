@@ -21,6 +21,14 @@ unordered lists
 - second
 - third
 
+bold
+
+  ***bold text***
+
+  italic
+
+     *italic*
+
 link
 
 
